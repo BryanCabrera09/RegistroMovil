@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registro Movil</string>
+    <string name="login">login</string>
+    <string name="registro">registro</string>
+    <string name="password">password</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="email">email</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Registrase">Registrase</string>
+</resources>

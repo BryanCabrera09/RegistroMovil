@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927129191949",
+    "project_id": "social-server-app",
+    "storage_bucket": "social-server-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927129191949:android:fa74e8a257684b5c12b744",
+        "android_client_info": {
+          "package_name": "com.brytech.registromovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927129191949-ud4l54iq5el40vgd6a2edc307q6nf3jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYVxZ0603VzKPXMwicfg_YfkvcoH-l5dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927129191949-ud4l54iq5el40vgd6a2edc307q6nf3jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

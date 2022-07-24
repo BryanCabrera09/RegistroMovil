@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akaya_telivigala</item>
+        <item>@font/arbutus</item>
+        <item>@font/arbutus_slab</item>
+        <item>@font/castoro</item>
+        <item>@font/cherry_swash_bold</item>
+    </array>
+</resources>
